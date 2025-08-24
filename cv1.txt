@@ -1,0 +1,34 @@
+CV Corporativo – Ricardo López
+
+Datos Personales:
+- Nombre: Ricardo López
+- Edad: 47 años
+- Correo: ricardo.lopez.corporativo@example.com
+- Ubicación: Buenos Aires, Argentina
+- LinkedIn: linkedin.com/in/ricardolopez-corporativo
+
+Resumen Profesional:
+- Ejecutivo con experiencia en liderazgo empresarial y gestión de proyectos tecnológicos.
+- Especialista en transformación digital y gestión de equipos multidisciplinarios.
+- Enfoque en cumplimiento de KPIs y desarrollo de cultura basada en datos.
+
+Experiencia Laboral:
+- Director de Transformación Digital en TechCorp: implementación de estrategias de innovación.
+- Gerente de Proyectos en Empresa XYZ: liderazgo de equipos en telecomunicaciones y finanzas.
+- Consultor Senior en Deloitte: asesoría en analítica de datos y gestión de riesgos.
+
+Logros Destacados:
+- Reducción de costos operativos en un 20% mediante procesos de digitalización.
+- Implementación de tableros de control para seguimiento de indicadores clave.
+- Desarrollo de programas de capacitación en gestión ágil y data-driven.
+
+Educación:
+- MBA - Universidad Austral.
+- Maestría en Ciencia de Datos - UBA.
+- Ingeniería en Sistemas - Universidad Nacional.
+
+Habilidades:
+- Gestión de proyectos, liderazgo, transformación digital.
+- Power BI, Tableau, SQL, Python.
+- Negociación con stakeholders y gestión de presupuestos.
+

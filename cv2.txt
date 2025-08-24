@@ -1,0 +1,34 @@
+CV Tecnológico – Sofía Martínez
+
+Datos Personales:
+- Nombre: Sofía Martínez
+- Edad: 38 años
+- Correo: sofia.martinez.tecnologico@example.com
+- Ubicación: Mendoza, Argentina
+- LinkedIn: linkedin.com/in/sofiamartinez-tecnologico
+
+Resumen Profesional:
+- Especialista en desarrollo de software, arquitecturas de datos e inteligencia artificial.
+- Experiencia en startups y empresas multinacionales.
+- Enfoque en soluciones escalables, seguras y eficientes en la nube.
+
+Experiencia Técnica:
+- Desarrollador Python en StartUp Dev: creación de pipelines de datos y APIs.
+- Ingeniero de Datos en Empresa XYZ: optimización de consultas SQL y bases de datos distribuidas.
+- Científico de Datos en TechCorp: despliegue de modelos de machine learning en producción.
+
+Proyectos Relevantes:
+- Implementación de arquitecturas de microservicios para sistemas distribuidos.
+- Automatización de procesos empresariales mediante RPA.
+- Despliegue de modelos de IA con MLOps en entornos cloud (AWS, GCP).
+
+Educación:
+- Diplomatura en Deep Learning - MIT (Online).
+- Certificación en Big Data - Universidad de Stanford.
+- Licenciatura en Matemática - Universidad Nacional.
+
+Habilidades:
+- Python, R, SQL, Machine Learning, Deep Learning.
+- Cloud Computing (AWS, GCP), Git/GitHub.
+- Automatización, arquitecturas de datos, DevOps aplicado a IA.
+
