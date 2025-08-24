@@ -1,34 +1,33 @@
-CV Tecnológico – Sofía Martínez
+# CV Tecnologico - Sofia Martinez
 
-Datos Personales:
-- Nombre: Sofía Martínez
-- Edad: 38 años
-- Correo: sofia.martinez.tecnologico@example.com
-- Ubicación: Mendoza, Argentina
-- LinkedIn: linkedin.com/in/sofiamartinez-tecnologico
+## Datos Personales
+- Nombre: Sofia Martinez  
+- Edad: 38 anios  
+- Correo: sofia.martinez.tecnologico@example.com  
+- Ubicacion: Mendoza, Argentina  
+- LinkedIn: linkedin.com/in/sofiamartinez-tecnologico  
 
-Resumen Profesional:
-- Especialista en desarrollo de software, arquitecturas de datos e inteligencia artificial.
-- Experiencia en startups y empresas multinacionales.
-- Enfoque en soluciones escalables, seguras y eficientes en la nube.
+## Resumen Profesional
+- Especialista en desarrollo de software, arquitecturas de datos e inteligencia artificial.  
+- Experiencia en startups y empresas multinacionales.  
+- Enfoque en soluciones escalables, seguras y eficientes en la nube.  
 
-Experiencia Técnica:
-- Desarrollador Python en StartUp Dev: creación de pipelines de datos y APIs.
-- Ingeniero de Datos en Empresa XYZ: optimización de consultas SQL y bases de datos distribuidas.
-- Científico de Datos en TechCorp: despliegue de modelos de machine learning en producción.
+## Experiencia Tecnica
+- **Desarrollador Python en StartUp Dev**: creacion de pipelines de datos y APIs.  
+- **Ingeniero de Datos en Empresa XYZ**: optimizacion de consultas SQL y bases de datos distribuidas.  
+- **Cientifico de Datos en TechCorp**: despliegue de modelos de machine learning en produccion.  
 
-Proyectos Relevantes:
-- Implementación de arquitecturas de microservicios para sistemas distribuidos.
-- Automatización de procesos empresariales mediante RPA.
-- Despliegue de modelos de IA con MLOps en entornos cloud (AWS, GCP).
+## Proyectos Relevantes
+- Implementacion de arquitecturas de microservicios para sistemas distribuidos.  
+- Automatizacion de procesos empresariales mediante RPA.  
+- Despliegue de modelos de IA con MLOps en entornos cloud (AWS, GCP).  
 
-Educación:
-- Diplomatura en Deep Learning - MIT (Online).
-- Certificación en Big Data - Universidad de Stanford.
-- Licenciatura en Matemática - Universidad Nacional.
+## Educacion
+- Diplomatura en Deep Learning - MIT (Online).  
+- Certificacion en Big Data - Universidad de Stanford.  
+- Licenciatura en Matematica - Universidad Nacional.  
 
-Habilidades:
-- Python, R, SQL, Machine Learning, Deep Learning.
-- Cloud Computing (AWS, GCP), Git/GitHub.
-- Automatización, arquitecturas de datos, DevOps aplicado a IA.
-
+## Habilidades
+- Python, R, SQL, Machine Learning, Deep Learning.  
+- Cloud Computing (AWS, GCP), Git/GitHub.  
+- Automatizacion, arquitecturas de datos, DevOps aplicado a IA.  

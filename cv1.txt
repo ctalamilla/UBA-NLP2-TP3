@@ -1,34 +1,33 @@
-CV Corporativo – Ricardo López
+# CV Corporativo - Ricardo Lopez
 
-Datos Personales:
-- Nombre: Ricardo López
-- Edad: 47 años
-- Correo: ricardo.lopez.corporativo@example.com
-- Ubicación: Buenos Aires, Argentina
-- LinkedIn: linkedin.com/in/ricardolopez-corporativo
+## Datos Personales
+- Nombre: Ricardo Lopez  
+- Edad: 47 anios  
+- Correo: ricardo.lopez.corporativo@example.com  
+- Ubicacion: Buenos Aires, Argentina  
+- LinkedIn: linkedin.com/in/ricardolopez-corporativo  
 
-Resumen Profesional:
-- Ejecutivo con experiencia en liderazgo empresarial y gestión de proyectos tecnológicos.
-- Especialista en transformación digital y gestión de equipos multidisciplinarios.
-- Enfoque en cumplimiento de KPIs y desarrollo de cultura basada en datos.
+## Resumen Profesional
+- Ejecutivo con experiencia en liderazgo empresarial y gestion de proyectos tecnologicos.  
+- Especialista en transformacion digital y gestion de equipos multidisciplinarios.  
+- Enfoque en cumplimiento de KPIs y desarrollo de cultura basada en datos.  
 
-Experiencia Laboral:
-- Director de Transformación Digital en TechCorp: implementación de estrategias de innovación.
-- Gerente de Proyectos en Empresa XYZ: liderazgo de equipos en telecomunicaciones y finanzas.
-- Consultor Senior en Deloitte: asesoría en analítica de datos y gestión de riesgos.
+## Experiencia Laboral
+- **Director de Transformacion Digital en TechCorp**: implementacion de estrategias de innovacion.  
+- **Gerente de Proyectos en Empresa XYZ**: liderazgo de equipos en telecomunicaciones y finanzas.  
+- **Consultor Senior en Deloitte**: asesoria en analitica de datos y gestion de riesgos.  
 
-Logros Destacados:
-- Reducción de costos operativos en un 20% mediante procesos de digitalización.
-- Implementación de tableros de control para seguimiento de indicadores clave.
-- Desarrollo de programas de capacitación en gestión ágil y data-driven.
+## Logros Destacados
+- Reduccion de costos operativos en un 20% mediante procesos de digitalizacion.  
+- Implementacion de tableros de control para seguimiento de indicadores clave.  
+- Desarrollo de programas de capacitacion en gestion agil y data-driven.  
 
-Educación:
-- MBA - Universidad Austral.
-- Maestría en Ciencia de Datos - UBA.
-- Ingeniería en Sistemas - Universidad Nacional.
+## Educacion
+- MBA - Universidad Austral.  
+- Maestria en Ciencia de Datos - UBA.  
+- Ingenieria en Sistemas - Universidad Nacional.  
 
-Habilidades:
-- Gestión de proyectos, liderazgo, transformación digital.
-- Power BI, Tableau, SQL, Python.
-- Negociación con stakeholders y gestión de presupuestos.
-
+## Habilidades
+- Gestion de proyectos, liderazgo, transformacion digital.  
+- Power BI, Tableau, SQL, Python.  
+- Negociacion con stakeholders y gestion de presupuestos.  
